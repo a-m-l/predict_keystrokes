@@ -2,4 +2,4 @@
 def hello(name):
   print("Hello " + name)
   
-hello("Constantin")
+hello("Maija!")
